@@ -18,7 +18,8 @@ Este é um projeto simples criado usando React, que permite a você criar e visu
 Adicione seus jogos e streamers favoritos à lista. <br>
 Visualize sua lista pessoal com informações relevantes.
 ## Tecnologias Utilizadas
-**React**: Uma biblioteca JavaScript para construir interfaces de usuário.
+**React**: Uma biblioteca JavaScript para construir interfaces de usuário. <br>
+**Vite**: Um build tool rápido para projetos JavaScript.
 
 
 
