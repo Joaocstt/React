@@ -1,6 +1,6 @@
 # Meu Projeto de Lista de Jogos e Streamers Favoritos
 
-Este é um projeto simples criado usando React com Vite, que permite a você criar e visualizar sua lista pessoal de jogos e streamers favoritos.
+Este é um projeto simples criado usando React, que permite a você criar e visualizar sua lista pessoal de jogos e streamers favoritos.
 
 ## Instruções de Uso
 
