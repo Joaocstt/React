@@ -12,10 +12,10 @@ Este é um projeto simples criado usando React, que permite a você criar e visu
 
   cd lista-jogos-streamers
 
-3 **Instale as dependências:**
+3. **Instale as dependências:**
   npm install
 
-4 **Inicie o servidor de desenvolvimento:**
+4. **Inicie o servidor de desenvolvimento:**
   npm run dev
 
 
